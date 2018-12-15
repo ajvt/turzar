@@ -1,0 +1,145 @@
+body {
+	padding: 10px;
+	background: gainsboro;
+}
+
+.showcase {
+	padding: 70px;
+	background-image: url(../images/header.png);
+	background-repeat: no repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	font-family: Verdana;
+	font-size: 70px;
+	border: 2px #fff solid;
+}
+
+.h1 {
+	text-align: center;
+	font-family: Verdana;
+	font-size: 30px;
+	border: 2px #000 solid;
+	color: black;
+}
+
+h3 {
+	text-align: center;
+	font-family: Verdana;
+}
+
+.instruments {
+	display: grid;
+	grid-gap: 5px;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	grid-template-rows: 1fr 1fr;
+	background: white;
+}
+
+a {
+	text-decoration: none;
+	text-align: center;
+	list-style: none;
+	color: black;
+	font-family: Verdana;
+}
+
+.piano {
+	border: 2px #000 solid;
+	padding: 10px;
+}
+
+.violin {
+	border: 2px #000 solid;
+	padding: 10px;
+}
+
+.bass {
+	border: 2px #000 solid;
+	padding: 10px;
+}
+
+.drums {
+	border: 2px #000 solid;
+	padding: 10px;
+}
+
+.electricguitar {
+	border: 2px #000 solid;
+	padding: 10px;
+}
+
+.flute {
+	border: 2px #000 solid;
+	padding: 10px;
+}
+
+.guitar {
+	border: 2px #000 solid;
+	padding: 10px;
+}
+
+.saxophone {
+	border: 2px #000 solid;
+	padding: 10px;
+}
+
+a {
+	text-decoration: none;
+	text-align: center;
+	list-style: none;
+	color: black;
+	font-family: Verdana;
+}
+
+#piano {
+	border: 2px #000 solid;
+	padding: 10px;
+}
+
+#violin {
+	border: 2px #000 solid;
+	padding: 10px;
+}
+
+#bass {
+	border: 2px #000 solid;
+	padding: 10px;
+}
+
+#drums {
+	border: 2px #000 solid;
+	padding: 10px;
+}
+
+#electricguitar {
+	border: 2px #000 solid;
+	padding: 10px;
+}
+
+#flute {
+	border: 2px #000 solid;
+	padding: 10px;
+}
+
+#guitar {
+	border: 2px #000 solid;
+	padding: 10px;
+}
+
+#saxophone {
+	border: 2px #000 solid;
+	padding: 10px;
+}
+
+.footer {
+	text-align: center;
+	background: black;
+	color: white;
+	font-family: Verdana;
+	padding: 10px;
+}
